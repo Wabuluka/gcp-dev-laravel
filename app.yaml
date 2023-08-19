@@ -21,7 +21,7 @@ resources:
 env_variables:
   # Put production environment variables here.
   APP_DEBUG: true
-  APP_ENV: production
+  APP_ENV: development
   APP_KEY: base64:PuMdUAkqD9zngTkNFLgWtWoGCg+Fj/9uAOf7YDZAQUc=
   APP_NAME: "GCP App - CODE"
 
